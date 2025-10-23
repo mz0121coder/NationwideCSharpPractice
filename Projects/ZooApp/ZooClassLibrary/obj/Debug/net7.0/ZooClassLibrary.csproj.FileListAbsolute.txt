@@ -1,0 +1,11 @@
+/Users/sz7861/Documents/ZooApp/ZooClassLibrary/bin/Debug/net7.0/ZooClassLibrary.deps.json
+/Users/sz7861/Documents/ZooApp/ZooClassLibrary/bin/Debug/net7.0/ZooClassLibrary.dll
+/Users/sz7861/Documents/ZooApp/ZooClassLibrary/bin/Debug/net7.0/ZooClassLibrary.pdb
+/Users/sz7861/Documents/ZooApp/ZooClassLibrary/obj/Debug/net7.0/ZooClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sz7861/Documents/ZooApp/ZooClassLibrary/obj/Debug/net7.0/ZooClassLibrary.AssemblyInfoInputs.cache
+/Users/sz7861/Documents/ZooApp/ZooClassLibrary/obj/Debug/net7.0/ZooClassLibrary.AssemblyInfo.cs
+/Users/sz7861/Documents/ZooApp/ZooClassLibrary/obj/Debug/net7.0/ZooClassLibrary.csproj.CoreCompileInputs.cache
+/Users/sz7861/Documents/ZooApp/ZooClassLibrary/obj/Debug/net7.0/ZooClassLibrary.dll
+/Users/sz7861/Documents/ZooApp/ZooClassLibrary/obj/Debug/net7.0/refint/ZooClassLibrary.dll
+/Users/sz7861/Documents/ZooApp/ZooClassLibrary/obj/Debug/net7.0/ZooClassLibrary.pdb
+/Users/sz7861/Documents/ZooApp/ZooClassLibrary/obj/Debug/net7.0/ref/ZooClassLibrary.dll
