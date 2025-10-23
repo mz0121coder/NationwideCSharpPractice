@@ -9,3 +9,14 @@
 /Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/Projects/BankingApp/BankingClassLibrary/obj/Debug/net7.0/refint/BankingClassLibrary.dll
 /Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/Projects/BankingApp/BankingClassLibrary/obj/Debug/net7.0/BankingClassLibrary.pdb
 /Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/Projects/BankingApp/BankingClassLibrary/obj/Debug/net7.0/ref/BankingClassLibrary.dll
+/Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/NationwideCSharpPractice/Projects/BankingApp/BankingClassLibrary/bin/Debug/net7.0/BankingClassLibrary.deps.json
+/Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/NationwideCSharpPractice/Projects/BankingApp/BankingClassLibrary/bin/Debug/net7.0/BankingClassLibrary.dll
+/Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/NationwideCSharpPractice/Projects/BankingApp/BankingClassLibrary/bin/Debug/net7.0/BankingClassLibrary.pdb
+/Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/NationwideCSharpPractice/Projects/BankingApp/BankingClassLibrary/obj/Debug/net7.0/BankingClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/NationwideCSharpPractice/Projects/BankingApp/BankingClassLibrary/obj/Debug/net7.0/BankingClassLibrary.AssemblyInfoInputs.cache
+/Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/NationwideCSharpPractice/Projects/BankingApp/BankingClassLibrary/obj/Debug/net7.0/BankingClassLibrary.AssemblyInfo.cs
+/Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/NationwideCSharpPractice/Projects/BankingApp/BankingClassLibrary/obj/Debug/net7.0/BankingClassLibrary.csproj.CoreCompileInputs.cache
+/Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/NationwideCSharpPractice/Projects/BankingApp/BankingClassLibrary/obj/Debug/net7.0/BankingClassLibrary.dll
+/Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/NationwideCSharpPractice/Projects/BankingApp/BankingClassLibrary/obj/Debug/net7.0/refint/BankingClassLibrary.dll
+/Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/NationwideCSharpPractice/Projects/BankingApp/BankingClassLibrary/obj/Debug/net7.0/BankingClassLibrary.pdb
+/Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/NationwideCSharpPractice/Projects/BankingApp/BankingClassLibrary/obj/Debug/net7.0/ref/BankingClassLibrary.dll

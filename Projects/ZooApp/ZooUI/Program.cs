@@ -27,3 +27,18 @@ Console.WriteLine(message2);
 Console.WriteLine(animal.ToString());
 Console.WriteLine(anotherAnimal.ToString());
 Console.WriteLine(wonkyAnimal.ToString());
+
+List<Animal> animals = new List<Animal>(){
+  animal,
+  anotherAnimal,
+  wonkyAnimal,
+  new Animal("George", "Green", 2, 4),
+  new Animal("Sally", "Blue", 5, 4), new Animal("Rex", "Red", 7, 4)
+};
+
+animals.Add(new Animal("Tiny", "Orange", 1, 4));
+
+foreach (Animal a in animals) {
+  Console.WriteLine(a.Eat("Mintos"));
+  Console.WriteLine(a.Wobble);
+}

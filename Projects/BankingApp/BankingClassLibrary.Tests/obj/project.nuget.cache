@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X3rfGwaGeCji/tOByhv0MiYy7eYGNxOJyn5InuEfmEjviBDqrL4rBWm7O+yshab59JXGyfGZVFOfk2GnvqiEmA==",
+  "dgSpecHash": "STGvg02hzTf5DW920xJajnaEaRl1p08qojVKruEKBcW7OsNtAv8Csy2exmaB1Vw+DCetRTr4s8sQPUJKTWiR0g==",
   "success": true,
-  "projectFilePath": "/Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/Projects/BankingApp/BankingClassLibrary.Tests/BankingClassLibrary.Tests.csproj",
+  "projectFilePath": "/Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/NationwideCSharpPractice/Projects/BankingApp/BankingClassLibrary.Tests/BankingClassLibrary.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/sz7861/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
     "/Users/sz7861/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",

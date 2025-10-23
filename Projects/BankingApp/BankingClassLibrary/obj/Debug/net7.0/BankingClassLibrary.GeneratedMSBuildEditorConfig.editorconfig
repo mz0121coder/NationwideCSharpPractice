@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BankingClassLibrary
-build_property.ProjectDir = /Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/Projects/BankingApp/BankingClassLibrary/
+build_property.ProjectDir = /Users/sz7861/Documents/Nationwide_CSharp_2025_10_20-main/NationwideCSharpPractice/Projects/BankingApp/BankingClassLibrary/
