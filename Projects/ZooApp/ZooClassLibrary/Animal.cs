@@ -3,18 +3,15 @@
     public class Animal
     {
         private int limbcount = 4;
+        public static int Count { get; set; } = 0;
 
-        //public Animal()
-        //{
-           
-        //}
-      
-        public Animal(string name="Anon", string colour="Brown", int age=1, int limbcount=4)
+        public Animal(string name = "Anon", string colour = "Brown", int age = 1, int limbcount = 4)
         {
             this.name = name;
             this.colour = colour;
             this.Age = age;
             this.limbcount = limbcount;
+            Count++;
         }
 
         private List<string> validColours = new List<string>()
@@ -28,7 +25,8 @@
             "Green",
             "Blue",
             "Red",
-            "Orange"
+            "Orange",
+            "Black and White"
         };
 
         private string colour;
@@ -56,7 +54,11 @@
                 {
                     value = value + "*";
                 }
-                name = value; 
+                if(value.Length > 5)
+                {
+                    value = value.Substring(0, 5);
+                }
+                name = value;
             }
         }
 
@@ -100,12 +102,17 @@
             return "Roar!";
         }
 
-        public string Eat(string food)
+        public virtual string Eat(string food)
         {
             return $"{name} is eating {food}.";
         }
 
         public string Move(string direction)
+        {
+            return $"{name} is moving {direction}.";
+        }
+
+        public string Move(string direction, int distance)
         {
             return $"{name} is moving {direction}.";
         }
