@@ -12,10 +12,13 @@ namespace BankingClassLibrary
 
         public override void Withdraw(decimal amount)
         {
+            if (amount <= 0)
+                throw new ArgumentException("Withdrawal amount must be positive.");
+
             if (Balance - amount < -CreditLimit)
                 throw new InvalidOperationException("Credit limit exceeded.");
-            
-            base.Withdraw(amount);
+
+            Balance -= amount; 
         }
     }
 }
