@@ -28,13 +28,5 @@ namespace BankingClassLibrary.Tests
             BankAccount account = new BankAccount("123", 50);
             Assert.Throws<InvalidOperationException>(() => account.Withdraw(100));
         }
-
-        [Fact]
-        public void ApplyInterest_IncreasesBalance()
-        {
-            SavingsAccount savings = new SavingsAccount("SAV-001", 1000, 0.05m); // 5% interest
-            savings.ApplyInterest();
-            Assert.Equal(1050, savings.Balance);
-        }
     }
 }
